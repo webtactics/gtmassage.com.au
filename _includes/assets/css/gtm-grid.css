@@ -1081,7 +1081,16 @@ ol[role='list'] {
   list-style: none;
 }
 
-ul li::marker {
+.detailcontent ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+   list-style-position: inside;
+}
+
+
+
+.detailcontent ul li::marker {
   color: var(--primary);
   font-size: 1.5em;
 }
