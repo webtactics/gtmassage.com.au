@@ -1075,3 +1075,8 @@ background-color: var(--primary);
   background: #000000 url(https://ik.imagekit.io/webtactics/gtm/assets/to-top_pZCu6b8pa.png?updatedAt=1683952481082) no-repeat center center;
   text-indent: -9999px;
 }
+
+ul li::marker {
+  color: var(--primary);
+  font-size: 1.5em;
+}
