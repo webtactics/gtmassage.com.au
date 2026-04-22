@@ -13,7 +13,7 @@ description: A centuries-old healing therapy combining Thai massage techniques w
 time30: $50.00
 time45: $70.00
 time60: $90.00
-time90: $120.00
+time90: $130.00
 
 ---
 
